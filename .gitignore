@@ -1,0 +1,4 @@
+*.parquet
+.venv
+.ipynb_checkpoints
+*draft*
